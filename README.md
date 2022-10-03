@@ -10,3 +10,7 @@ Many bacterial species are not well studied and many remain unknown.  It is the 
  * Cultures Per Sample
      ![CulturesPerSample](static/images/CulturesPerSample.png) 
      
+## Additional Changes to Dashboard:   
+ * Added an image to the jumbotron
+ * Added a background color to the webpage.
+ * Changed the Font and color of text in Jumbotron
